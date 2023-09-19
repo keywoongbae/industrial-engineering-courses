@@ -14,6 +14,7 @@
     - $\text{x}_{\mathcal{L}}$를 $\mathcal{L}$에 대한 $\text{x}$의 직교사영이라고 함.
 - 이론
   - $\mathcal{L}$에 속하는 모든 $\text{y}$에 대하여 $||\text{x}-\text{x}_{\mathcal{L}}||_2 \leq ||\text{x} - \text{y}||_2$
+    - <img src=".\img\image-20230919233904196.png" alt="image-20230919233904196" style="zoom:150%;" />
 - 정의
   - 만약 $A^2 = A$라면, $\R^{n \times n}$에 속하는  행렬 A를 멱함수(idempotent, projection) 행렬이라고 함.
 - 이론
