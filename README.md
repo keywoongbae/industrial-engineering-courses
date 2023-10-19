@@ -6,6 +6,8 @@
 
 영역은 최적화/통계/금융공학/데이터사이언스를 다루고 있습니다.
 
+<hr>
+
 ## Review
 
 ### Optimization (최적화)
@@ -40,3 +42,4 @@
 - **Python Programming (파이썬 프로그래밍)**
   - 인하대학교 학부과정, IEN-2202 / 임세실 교수님
   - [스터디 자료](./Python-Programming/)
+
