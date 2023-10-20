@@ -12,8 +12,7 @@
 
 - **Dynamic Programming (동적계획법과 강화학습)**
   - POSTECH 대학원 과정, IMEN-764 / 최동구 교수님 / 2023년도 2학기
-  - [스터디 자료](./Dynamic-Programming/)
-  - [과제 2]()
+  - [스터디 자료](./Dynamic-Programming/) / [과제 2]()
 
 ### 통계
 
@@ -30,7 +29,7 @@
 - **Economics Engineering (원가와경제성공학)**
   - 인하대학교 학부과정, IEN-2012 / 이신우 교수님 / 2021년도 2학기
   - [중간고사 대체과제](./Economic-Engineering/원가와경제성공학_12190625_배기웅_최종본.pdf)
- 
+
 - **Financial Statistics (금융통계)**
   - 인하대학교 학부과정, STS-4033 / 박진호 교수님 / 2022년도 2학기
   - [스터디 자료](./Financial-Statistics/)
