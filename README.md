@@ -7,22 +7,22 @@
 
 ### Finance
 
-- Economic engineering
+- [Economic engineering](./IEN2012/)
 - Financial engineering
-- Financial statistics
+- [Financial statistics](./STS4033/)
 - Risk management
 - Integrated risk management
 
 ### Statistics
 
-- Engineering statistics
-- [Mathematics for Data science](./Mathematic-for-Data-science/)
+- [Engineering statistics](./IEN2111/)
+- [Mathematics for Data science](./IMEN891I/)
 - Sequence analysis
 - Applied Stochastic Processes
 
 ### Data science
 
-- [Python programming](./Python-Programming/)
+- [Python programming](./IEN2202/)
 - Object Oriented Programming
 - C Language (C++)
 - Database
@@ -44,4 +44,4 @@
 
 - Operation research 1
 - Operation research 2
-- Dynamic programming
+- [Dynamic programming](./IMEN764/)
