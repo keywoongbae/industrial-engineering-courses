@@ -8,10 +8,10 @@
 
 ### Finance
 
-- [Economic engineering](./IEN2012/)$ ^{*}$
-- Financial engineering$ ^{*}$
-- [Financial statistics](./STS4033/)$ ^{*}$
-- Risk management$ ^{*}$
+- [Economic engineering](./IEN2012/) $ ^{*}$
+- Financial engineering $ ^{*}$
+- [Financial statistics](./STS4033/) $ ^{*}$
+- Risk management $ ^{*}$
 - Integrated risk management
 - [Financial accounting](./IMEN203/)
 
@@ -24,23 +24,23 @@
 
 ### Data science
 
-- [Python programming](./IEN2202/)$ ^{*}$
-- Object oriented programming$ ^{*}$
-- [C Language (C++)](./ACE1306/)$ ^{*}$
+- [Python programming](./IEN2202/) $ ^{*}$
+- Object oriented programming $ ^{*}$
+- [C Language (C++)](./ACE1306/) $ ^{*}$
 - Database
-- Database design$ ^{*}$
-- Industrial engineering experiment$ ^{*}$
-- [Computer programming (C)](https://github.com/keywoongbae/Inha-Computer-programming-Project)$ ^{*}$
-- Deep Learning$ ^{*}$
-- Algorithm$ ^{*}$
+- Database design $ ^{*}$
+- Industrial engineering experiment $ ^{*}$
+- [Computer programming (C)](https://github.com/keywoongbae/Inha-Computer-programming-Project) $ ^{*}$
+- Deep Learning $ ^{*}$
+- Algorithm $ ^{*}$
 - System Simulation
-- [E-business](https://github.com/keywoongbae/Inha-Homepage-Project)$ ^{*}$
-- [Advanced machine learning](https://github.com/keywoongbae/Inha-ML-Term-Project)$ ^{*}$
+- [E-business](https://github.com/keywoongbae/Inha-Homepage-Project) $ ^{*}$
+- [Advanced machine learning](https://github.com/keywoongbae/Inha-ML-Term-Project) $ ^{*}$
 - Machine learning for graphs
 
 ### HCI
 
-- [Ergonomics](./IEN3301/)$ ^{*}$
+- [Ergonomics](./IEN3301/) $ ^{*}$
 
 ### Optimization
 
