@@ -2,7 +2,6 @@
 
 - 본 레포지토리는 학부과정/대학원 과정 동안 배웠던 산업공학과 교과목들에 대한 스터디 자료와 과제들을 정리하여 모아놓은 모음입니다. 
 - Finance, statistics, data science, HCI, and optimization.
-- $^{*}$ means good achievement.
 
 ## Courses I learned
 
@@ -19,8 +18,8 @@
 
 - [Engineering statistics](./IEN2111/)
 - [Mathematics for data science](./IMEN891I/)
-- [Sequence analysis](./IMEN677/)
-- Applied stochastic processes
+- [Time series analysis](./IMEN677/)
+- [Applied stochastic processes](./IMEN666/)
 
 ### Data science
 
