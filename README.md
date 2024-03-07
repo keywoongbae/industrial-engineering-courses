@@ -46,3 +46,6 @@
 - Operation research 1
 - Operation research 2
 - [Dynamic programming and application of reinforcement learning](./IMEN764/)
+
+[^*]: Good achievement on grade.
+
