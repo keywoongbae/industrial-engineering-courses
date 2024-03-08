@@ -2,7 +2,7 @@
 
 ### Overview
 
-- These materials is derived from lecture IMEN891I, [Prof. Minwoo Chae](https://sds.postech.ac.kr/)
+- These materials are derived from lecture IMEN891I, [Prof. Minwoo Chae](https://sds.postech.ac.kr/)
 
 ### Informations
 

@@ -1,7 +1,7 @@
 ## Overview
 
 - 본 레포지토리는 학부과정/대학원 과정 동안 배웠던 산업공학과 교과목들에 대한 스터디 자료와 과제들을 정리하여 모아놓은 모음입니다. 
-- Finance, statistics, data science, HCI, and optimization.
+- Categorires: `finance`, `statistics`, `data science`, `HCI`, `optimization`.
 
 ## Courses I learned
 
@@ -35,7 +35,7 @@
 - System Simulation
 - [E-business](https://github.com/keywoongbae/Inha-Homepage-Project) **
 - [Advanced machine learning](https://github.com/keywoongbae/Inha-ML-Term-Project) *
-- Machine learning for graphs
+- Machine learning for graphs neural network
 
 ### HCI
 
@@ -46,6 +46,4 @@
 - Operation research 1
 - Operation research 2
 - [Dynamic programming and application of reinforcement learning](./IMEN764/)
-
-[^*]: Good achievement on grade.
 
