@@ -4,7 +4,7 @@
 
 - These materials are derived from lecture IMEN666, [Prof. Young Myoung Ko](https://www.lstlab.org/home)
 - This course is based on Stochastic Processes, 2nd edition.
-  <img src="./assets/book.png" alt="book" style="zoom: 80%;" />
+- <img src="./assets/book.png" alt="book" style="zoom: 50%;" />
 
 ### Informations
 
