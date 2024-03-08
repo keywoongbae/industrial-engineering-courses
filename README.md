@@ -1,7 +1,7 @@
 ## Overview
 
 - 본 레포지토리는 학부과정/대학원 과정 동안 배웠던 산업공학과 교과목들에 대한 스터디 자료와 과제들을 정리하여 모아놓은 모음입니다. 
-- Categorires: `finance`, `statistics`, `data science`, `HCI`, `optimization`.
+- Categories: `finance`, `statistics`, `data science`, `HCI`, `optimization`.
 
 ## Courses I learned
 
