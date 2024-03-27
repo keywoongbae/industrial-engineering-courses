@@ -29,7 +29,7 @@
 - Database
 - Database design *
 - Industrial engineering experiment *
-- [Computer programming (C)](https://github.com/keywoongbae/Inha-Computer-programming-Project) *
+- [Computer programming (C)](./ACE1302/) *
 - Deep Learning **
 - Algorithm *
 - System Simulation
