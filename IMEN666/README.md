@@ -6,16 +6,16 @@
 - This course is based on Stochastic Processes, 2nd edition.
 - <img src="./assets/book.png" alt="book" style="zoom: 50%;" />
 
-### Informations
+### Contents
 
 - **Chapter 1: Preliminaries**
-  - Probability measure: *Borel-Cantelli Lemma*
+  - Probability measure (Borel-Cantelli Lemma)
   - Random variables
   - Expected value
   - Generating functions and Laplace transform
   - Conditional expectation
   - Exponential distribution
-  - Some probability inequalities: *Markov inequality, Jensen's inequality, Chevysev's inequality*
-  - Limit theorem: *Weak law of large numbers (WLLN), Strong law of large numbers (SLLN)*
+  - Some probability inequalities (Markov inequality, Jensen's inequality, Chevysev's inequality)
+  - Limit theorem (Weak law of large numbers (WLLN), Strong law of large numbers (SLLN))
 - **Chapter 2:** 
 
